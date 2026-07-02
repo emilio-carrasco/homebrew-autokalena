@@ -1,6 +1,6 @@
 cask "autokalena" do
-  version "0.1.2"
-  sha256 "99bb58ceeaf285640559ebee612f89a64c07a9de28cda814fedb9a5b726df006"
+  version "0.1.3"
+  sha256 "208e04d8220fe51be4d47516bfa00f21632ede7402a39594f6e082b294748317"
 
   url "https://github.com/emilio-carrasco/autokalena/releases/download/v#{version}/AutoKalena-macos.dmg"
   name "AutoKalena"
